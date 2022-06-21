@@ -1,0 +1,60 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.myanmarexchangerates"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:4:5-66
+11-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:4:22-64
+12
+13    <application
+13-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:6:5-25:19
+14        android:name="com.myanmarexchangerates.MainApplication"
+14-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:7:13-44
+15        android:allowBackup="false"
+15-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:11:13-40
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.5.0] /Users/waiyanphyoe/.gradle/caches/transforms-3/92f097da2c13c17a6cb693c16e868191/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:9:13-47
+18        android:label="@string/app_name"
+18-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:8:13-45
+19        android:roundIcon="@mipmap/ic_launcher"
+19-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:10:13-52
+20        android:theme="@style/AppTheme" >
+20-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:12:13-44
+21        <activity
+21-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:13:9-24:20
+22            android:name="com.myanmarexchangerates.MainActivity"
+22-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:14:17-45
+23            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+23-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:16:17-126
+24            android:exported="true"
+24-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:19:17-40
+25            android:label="@string/app_name"
+25-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:15:17-49
+26            android:launchMode="singleTask"
+26-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:17:17-48
+27            android:windowSoftInputMode="adjustResize" >
+27-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:18:17-59
+28            <intent-filter>
+28-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:20:13-23:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:21:17-68
+29-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:21:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:22:17-76
+31-->/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/src/main/AndroidManifest.xml:22:27-74
+32            </intent-filter>
+33        </activity>
+34    </application>
+35
+36</manifest>

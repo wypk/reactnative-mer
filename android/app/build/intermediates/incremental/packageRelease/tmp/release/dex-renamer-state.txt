@@ -1,0 +1,4 @@
+#Mon Jun 20 20:39:53 MMT 2022
+base.0=/Users/waiyanphyoe/Desktop/ReactNative/react-native-myanmar-exchange-rates/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
