@@ -2,7 +2,7 @@
 Central Bank of Myanmar's Exchange Rates
 
 <p align="center">
-<table align="center">
+<table align="left">
        <tr>
           <td>
           	<img src="https://github.com/wyphyoe/reactnative-mer/blob/main/readme-assets/screen-home.png" width="250">
