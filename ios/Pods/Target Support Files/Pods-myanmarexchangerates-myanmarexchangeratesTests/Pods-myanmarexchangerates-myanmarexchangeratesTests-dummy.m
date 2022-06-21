@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_myanmarexchangerates_myanmarexchangeratesTests : NSObject
+@end
+@implementation PodsDummy_Pods_myanmarexchangerates_myanmarexchangeratesTests
+@end

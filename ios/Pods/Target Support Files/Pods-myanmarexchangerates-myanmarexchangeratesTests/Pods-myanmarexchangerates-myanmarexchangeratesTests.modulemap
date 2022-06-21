@@ -1,0 +1,6 @@
+module Pods_myanmarexchangerates_myanmarexchangeratesTests {
+  umbrella header "Pods-myanmarexchangerates-myanmarexchangeratesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

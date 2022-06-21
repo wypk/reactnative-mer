@@ -1,2 +1,16 @@
 # Myanmar Exchange Rates (ReactNative)
 Central Bank of Myanmar's Exchange Rates
+
+<p align="center">
+<table align="center">
+       <tr>
+          <td>
+          	<img src="https://github.com/wyphyoe/reactnative-mer/blob/master/readme-assets/screen-home.png" width="250">
+          </td>
+          <td>
+          	<img src="https://github.com/wyphyoe/reactnative-mer/blob/master/readme-assets/screen-calculate.png" width="250">
+          </td>
+       </tr>
+       <tr>
+ </table>
+</p>
